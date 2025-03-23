@@ -20,9 +20,7 @@ This Power BI dashboard provides an insightful analysis of Reddit's stock price,
 * The highest volume of trading occurred on a specific date, suggesting increased market activity.
 
 📷 Dashboard Preview
-
-
-
+https://github.com/mdfaiazalam/Reddit-Data-Analysis-Dashboard/blob/main/dashboard.png
 
 ## 🚀 How to Use
 
